@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "author": "Mohammad-Abohasan",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "typescript": "^5.3.3"
+  }
+}
